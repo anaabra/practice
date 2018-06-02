@@ -3,7 +3,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-        List<Integer> col=new ArrayList<>();
+        \\List<Integer> col=new ArrayList<>();
         System.out.println("Здравствуйте!"+args[0]);
 	// write your code here
     }
